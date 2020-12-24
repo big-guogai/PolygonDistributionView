@@ -1,0 +1,2 @@
+# PolygonDistributionView
+Android多边形属性分布器
