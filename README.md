@@ -6,7 +6,7 @@ PolygonDistributionView.kt
 
 attrs_polygon_distribution_view.xml       //放到res/value文件夹下
 
-2012.12.25更新，view生成时添加了覆盖区域加载动画，从中心扩散到各比例位置
+2021.12.25更新，view生成时添加了覆盖区域加载动画，从中心扩散到各比例位置
 
 xml中的使用方法
 
